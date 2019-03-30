@@ -1,5 +1,5 @@
 import Vue from "vue";
-import * as componentObj from "./mandMobileComponent";
+import * as componentObj from "./iViewComponent";
 
 Object.keys(componentObj).forEach(item => {
   // console.log(item);
